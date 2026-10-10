@@ -1,61 +1,61 @@
-# Hi, I'm Cameron Thomas
+# Cameron Thomas
 
-**Product Leader | Energy & AI | Portfolio Strategy**
+**Product Leader | AI & Energy | Portfolio Strategy**
 
-I lead a portfolio of four AI and data platform products at a Fortune 200 energy company, spanning renewable fleet operations, document intelligence, fossil predictive maintenance, and nuclear digital monitoring. Together, they drive $90M+ in annual recovered value across 700+ generation sites.
+I own a $110M+ product portfolio across four AI and data platform products at a Fortune 200 energy company. I make the investment decisions that determine what gets built, allocate engineering capacity across competing priorities, and connect every initiative to measurable business outcomes.
 
-My thesis: **every generation asset produces data that, when structured correctly, becomes a decision-making system.** I'm building that system across the entire fleet.
-
----
-
-## The Portfolio
-
-| Product | What It Does | Impact |
-|---------|-------------|--------|
-| [GenE / OpsReport](https://github.com/camthomasbuilds/renewable-fleet-ops) | ML-powered loss classification and fleet operations platform for 700+ renewable sites | $55M+ NPV, 300+ DAU, system of record for $2.4B revenue |
-| [DocIQ](https://github.com/camthomasbuilds/document-ai-pipeline) | AI document classification and metadata extraction for 650K engineering documents | $3.4M/yr savings, 90-94% accuracy, 6.6x ROI |
-| [Nuclear Asset Health](https://github.com/camthomasbuilds/nuclear-monitoring) | Continuous equipment monitoring with physics-based + statistical hybrid detection | 80% cost reduction, $3M/day outage prevention |
-| [Fossil Asset Health](https://github.com/camthomasbuilds/predictive-asset-health) | Weibull failure prediction connected to financial impact for capital allocation | 70%+ component coverage, $20M+ program value |
+**Investment thesis:** Every generation asset produces data. Structured correctly, that data becomes a decision-making system worth more than the infrastructure it monitors.
 
 ---
 
-## What Sets My Work Apart
+## Portfolio at a Glance
 
-**Portfolio-level strategy.** I don't manage one product. I define the investment thesis across four, decide where to allocate, and ensure they compound rather than compete.
+| Product | Business Problem | Value Created |
+|---------|-----------------|---------------|
+| [GenE / OpsReport](https://github.com/camthomasbuilds/renewable-fleet-ops) | $2.4B in renewable generation revenue had no system of record | $55M+ NPV, 300+ DAU, system of record for 700+ sites |
+| [DocIQ](https://github.com/camthomasbuilds/document-ai-pipeline) | $3.4M/yr lost to engineers unable to find documents | 90-94% AI accuracy, 6.6x ROI, 650K docs processed |
+| [Nuclear Asset Health](https://github.com/camthomasbuilds/nuclear-monitoring) | $3M/day forced outage risk with manual monitoring | 80% cost reduction, 30+ system expansion roadmap |
+| [Fossil Asset Health](https://github.com/camthomasbuilds/predictive-asset-health) | Capital allocated by schedule, not by actual asset risk | 70%+ component coverage, $20M+ program value |
 
-**Business model innovation.** I built the business case to take GenE from internal operations tool to external SaaS product, creating a new revenue line for a Fortune 200 energy company.
-
-**Architecture decisions that scale.** The Rust/TimescaleDB stack, multi-agent AI pattern, and confidence-gating framework I designed are now reference architectures for adjacent teams across the organization.
-
-**Regulated, high-stakes environments.** Nuclear (NRC), financial reporting (SOX/NERC), engineering compliance. Every product I ship has real consequences: forced outages cost $3M/day, misclassified losses affect $2.4B in revenue, and bad document metadata has compliance implications.
-
-**Measurable outcomes.** Every initiative has a quantified NPV and profit index. I don't ship features. I make investments and track returns.
-
----
-
-## Frameworks I've Published
-
-| Framework | Description |
-|-----------|-------------|
-| [Portfolio Prioritization](https://github.com/camthomasbuilds/product-portfolio/blob/main/frameworks/portfolio-prioritization.md) | How I evaluate and rank across a multi-product portfolio using risk-adjusted value |
-| [Enterprise GTM Playbook](https://github.com/camthomasbuilds/product-portfolio/blob/main/frameworks/enterprise-gtm-playbook.md) | Getting enterprise users to actually adopt internal products |
-| [AI Architecture Patterns](https://github.com/camthomasbuilds/product-portfolio/blob/main/frameworks/ai-architecture-patterns.md) | Reusable technical patterns applied across 4 AI/ML product lines |
-| [ML Product Lifecycle](https://github.com/camthomasbuilds/product-portfolio/blob/main/frameworks/ml-product-lifecycle.md) | Managing ML products through build-measure-learn with degradation awareness |
-| [Confidence Threshold Design](https://github.com/camthomasbuilds/product-portfolio/blob/main/frameworks/confidence-threshold-design.md) | The pattern for graduated automation using confidence scores |
+Four independent P&Ls. Different teams, domains, tech stacks, and regulatory environments. One investment framework.
 
 ---
 
-## By the Numbers
+## What I Do Differently
 
-- **$90M+** annual recovered value across portfolio
-- **$55M+** NPV across active GenE workstreams
-- **700+** sites under automated monitoring
-- **10,000+** individual ML models in production
-- **300+** daily active users (product-led growth, no mandates)
-- **900M+** time-series records processed
-- **80%** cost reduction in nuclear monitoring
-- **4** independent product lines, unified thesis
+**I allocate capital, not just prioritize backlogs.** Every initiative competes on risk-adjusted NPV with profit indices ranging from 25.8 to 81.2. I fund the highest-return work across the portfolio and kill the rest with a clear explanation why.
+
+**I create new revenue lines.** I identified that our internal fleet analytics platform could become an external SaaS product and built the business case to commercialize it. That's not feature shipping. That's business model innovation.
+
+**I set technical direction that becomes organizational standard.** Architecture patterns I drove (Rust/TimescaleDB, multi-agent AI, confidence-gated automation) are now reference architectures adopted by 3+ adjacent teams. I make technical bets that compound.
+
+**I ship in environments where failure costs millions.** Nuclear (NRC-regulated), financial close (SOX/NERC), engineering compliance. Forced outages cost $3M/day. Misclassified generation losses affect $2.4B in revenue. These are not MVPs.
 
 ---
 
-**Open to:** AI product leadership, platform strategy, or Principal/Director roles where portfolio thinking, technical depth, and business impact converge.
+## Published Frameworks
+
+| Framework | Core Idea |
+|-----------|-----------|
+| [Portfolio Prioritization](https://github.com/camthomasbuilds/product-portfolio/blob/main/frameworks/portfolio-prioritization.md) | Risk-adjusted NPV allocation across a multi-product portfolio |
+| [Enterprise GTM Playbook](https://github.com/camthomasbuilds/product-portfolio/blob/main/frameworks/enterprise-gtm-playbook.md) | 30 to 300+ DAU without a usage mandate |
+| [AI Architecture Patterns](https://github.com/camthomasbuilds/product-portfolio/blob/main/frameworks/ai-architecture-patterns.md) | 6 reusable patterns from shipping AI in regulated industry |
+| [ML Product Lifecycle](https://github.com/camthomasbuilds/product-portfolio/blob/main/frameworks/ml-product-lifecycle.md) | Build-measure-learn when models degrade and "done" doesn't exist |
+| [Confidence Threshold Design](https://github.com/camthomasbuilds/product-portfolio/blob/main/frameworks/confidence-threshold-design.md) | Graduated automation using confidence scores |
+
+---
+
+## Key Metrics
+
+| | |
+|---|---|
+| **$110M+** portfolio value (NPV + annual savings) | **$2.4B** generation revenue influenced |
+| **10,000+** ML models in production | **700+** sites under automated monitoring |
+| **300+** daily active users (organic growth) | **80%** cost reduction in nuclear monitoring |
+| **4** independent product lines | **81.2** highest profit index across portfolio |
+
+---
+
+**Seeking:** Principal Product or Director of Product roles in AI, platform strategy, or industrial technology where portfolio-level ownership, capital allocation discipline, and technical depth create outsized business impact.
+
+**Full portfolio and strategy:** [product-portfolio](https://github.com/camthomasbuilds/product-portfolio)
