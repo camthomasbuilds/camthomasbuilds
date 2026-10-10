@@ -2,7 +2,7 @@
 
 **Product Leader | Energy & AI | Portfolio Strategy**
 
-I lead a portfolio of four AI and data platform products at a Fortune 200 energy company — spanning renewable fleet operations, document intelligence, fossil predictive maintenance, and nuclear digital monitoring. Together, they drive $90M+ in annual recovered value across 700+ generation sites.
+I lead a portfolio of four AI and data platform products at a Fortune 200 energy company, spanning renewable fleet operations, document intelligence, fossil predictive maintenance, and nuclear digital monitoring. Together, they drive $90M+ in annual recovered value across 700+ generation sites.
 
 My thesis: **every generation asset produces data that, when structured correctly, becomes a decision-making system.** I'm building that system across the entire fleet.
 
@@ -21,15 +21,15 @@ My thesis: **every generation asset produces data that, when structured correctl
 
 ## What Sets My Work Apart
 
-**Portfolio-level strategy.** I don't manage one product — I define the investment thesis across four, decide where to allocate, and ensure they compound rather than compete.
+**Portfolio-level strategy.** I don't manage one product. I define the investment thesis across four, decide where to allocate, and ensure they compound rather than compete.
 
-**Business model innovation.** I built the business case to take GenE from internal operations tool to external SaaS product — creating a new revenue line for a Fortune 200 energy company.
+**Business model innovation.** I built the business case to take GenE from internal operations tool to external SaaS product, creating a new revenue line for a Fortune 200 energy company.
 
 **Architecture decisions that scale.** The Rust/TimescaleDB stack, multi-agent AI pattern, and confidence-gating framework I designed are now reference architectures for adjacent teams across the organization.
 
-**Regulated, high-stakes environments.** Nuclear (NRC), financial reporting (SOX/NERC), engineering compliance. Every product I ship has real consequences — forced outages cost $3M/day, misclassified losses affect $2.4B in revenue, and bad document metadata has compliance implications.
+**Regulated, high-stakes environments.** Nuclear (NRC), financial reporting (SOX/NERC), engineering compliance. Every product I ship has real consequences: forced outages cost $3M/day, misclassified losses affect $2.4B in revenue, and bad document metadata has compliance implications.
 
-**Measurable outcomes.** Every initiative has a quantified NPV and profit index. I don't ship features — I make investments and track returns.
+**Measurable outcomes.** Every initiative has a quantified NPV and profit index. I don't ship features. I make investments and track returns.
 
 ---
 
