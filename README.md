@@ -56,6 +56,4 @@ Four independent P&Ls. Different teams, domains, tech stacks, and regulatory env
 
 ---
 
-**Seeking:** Principal Product or Director of Product roles in AI, platform strategy, or industrial technology where portfolio-level ownership, capital allocation discipline, and technical depth create outsized business impact.
-
 **Full portfolio and strategy:** [product-portfolio](https://github.com/camthomasbuilds/product-portfolio)
